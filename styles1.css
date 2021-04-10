@@ -1,0 +1,21 @@
+body{
+    width: 100%
+    height: 100%
+    box-sizing: border-box;
+}
+
+.navbar { margin-top: 6%;
+          margin-left: 6%;
+          margin-right: 6%;
+        background: linear-gradient(rgb(253, 250, 251),rgb(219, 184, 230));   
+        height: 20%;  
+       
+        font-size:0.8cm;
+    }
+
+.main  { margin-left: 6%;
+    margin-right: 6%;
+    background-color: palevioletred;
+    height:15cm ;
+     
+        
